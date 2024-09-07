@@ -2,7 +2,7 @@
 Validates a document by checking if all form fields are filled and whether a signature or handwriting is present. 
 The code uses several libraries like **Tesseract OCR, OpenCV, and PIL** to process the PDF files. 
 
-The main tasks performed by this script are:
+**The main tasks performed by this script:**
   Extracting fields that need to be filled.
   Checking if the user has filled the required fields.
   Comparing the original and user-filled documents.
