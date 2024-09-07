@@ -1,4 +1,5 @@
 **Document Validation Using Python (AI)**
+
 Validates a document by checking if all form fields are filled and whether a signature or handwriting is present. 
 The code uses several libraries like **Tesseract OCR, OpenCV, and PIL** to process the PDF files. 
 
