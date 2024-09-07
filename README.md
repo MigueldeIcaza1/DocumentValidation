@@ -19,7 +19,7 @@ The code uses several libraries like **Tesseract OCR, OpenCV, and PIL** to proce
 
   
 **Limitations:**
-  Valid only for printed text not for handwritten text (except signature)
+  Valid only for printed text not for handwritten text (except signature).
   Fields should be in the format -  User filled data above the underline of field to be filled
   Example as shown below: 
   ![image](https://github.com/user-attachments/assets/1322c734-0341-4f51-b1d8-5af8c0eb9699)
