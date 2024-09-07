@@ -6,7 +6,7 @@
   If a value is empty, then the document is invalid
 
   
-**Limitations: **
+**Limitations:**
   Valid only for printed text not for handwritten text
   Fields should be in the format -  User filled data above the underline of field to be filled
   Example as shown below: 
